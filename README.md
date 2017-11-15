@@ -1,0 +1,1 @@
+This is my 6th homework with the smart Tic Tac Toe game
